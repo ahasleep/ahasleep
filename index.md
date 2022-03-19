@@ -1,10 +1,6 @@
-# 啊哈，好茶！
+# 啊哈，睡眠。
 
-![image](https://user-images.githubusercontent.com/101916182/159107227-a54d95a3-9736-4fb5-8462-259aa382951b.png)
-
-![image](https://user-images.githubusercontent.com/101916182/159107235-4774f4e2-f7da-4efb-8cad-5be102202861.png)
-
-![image](https://user-images.githubusercontent.com/101916182/159107357-e2d331e4-4188-4f85-a85c-8ebc9b808835.png)
+![image](https://user-images.githubusercontent.com/101916182/159107932-bf843e0b-37e6-430f-b6b8-40227105cab6.png)
 
 
 ## 参考
